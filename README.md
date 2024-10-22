@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adeniyi Emmanuel 
-- 👀 I’m interested in Frontend developer 
+- 👀 I’m interested in Front-end developer
 - 🌱 I’m currently learning JavaScript, CSS, HTML
 - 💞️ I’m looking to collaborate with big developers
 - 📫 How to reach me ...
